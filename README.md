@@ -9,9 +9,6 @@
 ## Installation
 Install Python IDE in your system (like Pycharm or VScode)(Python 3)
 
-### Prerequisites
-List any software, tools, or dependencies that are needed to run the project.
-
 ### Steps to Install
 1. Clone the repository:
    ```bash
